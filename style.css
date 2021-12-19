@@ -1,0 +1,67 @@
+.japan{
+width: 367px;
+height: 267px;
+border: black 2px solid;
+background-color: white;
+
+}
+.kryg{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    top: 145px;
+    left: 160px;
+    border: red 1px;
+    border-radius: 100%;
+
+}
+p{
+    text-align: center;
+}
+.insta{
+    background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    width: 256px;
+    height: 256px;
+    border-radius: 15%;
+}
+.inst1{
+    width: 190px;
+    height: 190px;
+    border-radius: 25%;
+    border: white solid 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+.inst2{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    border: white solid 15px;
+    background: white;
+    position: relative;
+    top: -65px;
+    left: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inst3{
+    width: 80px;
+    height: 80px;
+    border-radius: 111%;
+    border: white solid 20px;
+    
+    position: absolute;
+    top: 20px;
+    left: -110px;
+    
+}
